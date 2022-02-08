@@ -1,1 +1,13 @@
 
+ gcc -g p2original.c
+ ./a.out
+enter the a value:3 
+enter the a value:3
+enter the a value:3
+NOT SCALENE 
+ gcc -g p2original.c
+ ./a.out
+enter the a value:1
+enter the a value:3
+enter the a value:5
+SCALENE 
